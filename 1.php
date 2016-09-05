@@ -1,4 +1,5 @@
  <?php
+ echo 1;die;
               function bubble_sort($array) {
                   for($i = 0; $i < count($array) - 1; $i++) {    //$i为已经排过序的元素个数
                       for($j = 0; $j < count($array) - 1 - $i; $j++) {    //$j为需要排序的元素个数,用总长减去$i
