@@ -10,7 +10,7 @@
                          }
                      }
                  }
-                 return $array;123
+                 return $array;123;
              }
              
              $array = array(5, 1, 4, 7, 7, 9, 0, 11);
