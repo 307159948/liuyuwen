@@ -1,2 +1,2 @@
  <?php
-echo '123';die;
+echo '123456';die;
