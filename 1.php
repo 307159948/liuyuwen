@@ -1,2 +1,2 @@
  <?php
-echo 'huahua';die;
+echo 'huahuahua2';die;
